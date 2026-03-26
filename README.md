@@ -24,15 +24,15 @@
         I'm a <strong>B.Tech AI & Data Science student</strong> passionate about building intelligent systems and extracting meaning from data.
       </p>
       <p>
-        🔭 Currently deepening my skills in <strong>Python</strong> and sharpening my <strong>problem-solving</strong> through competitive programming and real-world projects.<br/>
-        🌱 Exploring machine learning, deep learning, and data pipelines.<br/>
-        💡 Always curious. Always building.
+         Currently deepening my skills in <strong>Python</strong> and sharpening my <strong>problem-solving</strong> through competitive programming and real-world projects.<br/>
+         Exploring machine learning, deep learning, and data pipelines.<br/>
+         Always curious. Always building.
       </p>
       <ul>
-        <li>🎓 Pursuing B.Tech in AI & Data Science</li>
-        <li>🐍 Python is my primary language</li>
-        <li>📊 Turning raw data into actionable insights</li>
-        <li>🤖 Interested in NLP, Computer Vision & MLOps</li>
+        <li> Pursuing B.Tech in AI & Data Science</li>
+        <li> Python is my primary language</li>
+        <li> Turning raw data into actionable insights</li>
+        <li> Interested in NLP, Computer Vision & MLOps</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
