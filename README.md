@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=ALWAYS+CURIOUS.+ALWAYS+BUILDING." alt="Custom Banner" width="100%" />
+<img src="banner1.png" alt="Custom Banner" width="100%" />
 
 <br><br>
 
@@ -13,6 +13,7 @@
 
 <br>
 
+<!-- Social Badges -->
 <a href="mailto:ranveer.shinde.work@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/ranveer-shinde-089675387"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Ranveer017"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
