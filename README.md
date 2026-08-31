@@ -16,7 +16,7 @@
   </a>
 </div>
 
----
+<br><br>
 
 <div align="center">
   <h3>👨‍💻 About me</h3>
@@ -33,13 +33,12 @@
       <p>⚡ Always curious. Always building.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- You can swap this GIF with any local file by changing the src to "your-animation.gif" -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Pixel Astronaut" />
     </td>
   </tr>
 </table>
 
----
+<br><br>
 
 <div align="center">
   <h3>⚙️ Technologies</h3>
@@ -63,27 +62,28 @@
   <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
----
+<br><br>
 
 <div align="center">
   <h3>📁 Featured Repositories</h3>
   <br>
-  <!-- Replace the 'repo' parameter with your actual repository names -->
+  <!-- Change 'CrediCheck-AI' in both URLs below to match your exact repository name if it differs -->
   <a href="https://github.com/Ranveer017/CrediCheck-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=CrediCheck-AI&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="CrediCheck AI Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=CrediCheck-AI&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=30363D" alt="CrediCheck AI Repo" />
   </a>
+  <!-- Change 'Portfolio' in both URLs below to match your exact repository name if it differs -->
   <a href="https://github.com/Ranveer017/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=Portfolio&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="Portfolio Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=Portfolio&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=30363D" alt="Portfolio Repo" />
   </a>
 </div>
 
----
+<br><br>
 
 <div align="center">
   <h3>📈 Statistics</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer017&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer017&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=30363D" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranveer017&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=30363D" height="165" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranveer017&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&area_color=30363D&border_color=30363D&hide_border=false" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranveer017&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&area_color=30363D&border_color=30363D" width="95%" alt="Activity Graph" />
 </div>
