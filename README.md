@@ -25,7 +25,7 @@ I enjoy learning new technologies and extracting actionable meaning from data. C
 
 When I'm not building models, you'll find me diving into NLP research papers or experimenting with computer vision projects.
 
-**Core Stack:**
+**Core Stack:**<br/>
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)
