@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="banner.png" alt="Welcome Banner" width="100%" />
+<img src="banner1.jpg" alt="Welcome Banner" width="100%" />
 
 <h1 align="center">Yoo 👋 I'm <a href="https://github.com/Ranveer017">Ranveer Shinde</a></h1>
 <h3 align="center"><em>Always curious. Always building.</em></h3>
