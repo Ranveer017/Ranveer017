@@ -1,23 +1,23 @@
 <!-- BANNER -->
 <img src="banner1.jpg" alt="Welcome Banner" width="100%" />
 
-<h1 align="center">Yoo 👋 I'm <a href="https://github.com/Ranveer017">Ranveer Shinde</a></h1>
+<h1 align="center">Yoo I'm <a href="https://github.com/Ranveer017">Ranveer Shinde</a></h1>
 <h3 align="center"><em>Always curious. Always building.</em></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=3rd-Year+B.Tech+AI+%26+Data+Science;NLP+%7C+Computer+Vision+%7C+MLOps;Building+Intelligent+Systems+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=3rd-Year+B.Tech+AI+%26+Data+Science;NLP+%7C+Computer+Vision+%7C+MLOps;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- KNOW ABOUT ME -->
-## 💡 Know About Me
+## Know About Me
 
 <table><tr><td width="220" align="center" valign="top"><br/>
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="AI Brain" /><br/><br/>
 </td><td valign="top"><br/>
 
-**Hey! I'm Ranveer 🧠**
+**Hey! I'm Ranveer**
 
 I'm a **3rd-year B.Tech AI & Data Science** student under SPPU, passionate about turning raw data into real-world impact.
 
@@ -25,7 +25,7 @@ I enjoy learning new technologies and extracting actionable meaning from data. C
 
 When I'm not building models, you'll find me diving into NLP research papers or experimenting with computer vision projects.
 
-**🔬 Core Stack:**
+**Core Stack:**
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -36,15 +36,15 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- CURRENT FOCUS -->
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 <table><tr><td align="center">
 
-![NLP](https://img.shields.io/badge/🧠_NLP-0D1117?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-0D1117?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/⚙️_MLOps-0D1117?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/📊_Data_Pipelines-0D1117?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-0D1117?style=for-the-badge)
 
 </td></tr></table>
 </div>
@@ -52,7 +52,7 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- TECH ARSENAL -->
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 <table><tr><td align="center">
@@ -86,7 +86,7 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- CONNECT -->
-## 🤝 Connect
+## Connect
 
 <div align="center">
 <table><tr><td align="center">
@@ -107,7 +107,7 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranveer017&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" width="49%" />
@@ -117,7 +117,7 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution
+## Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranveer017&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1a2332&hide_border=true&custom_title=Ranveer017's%20Contribution%20Graph" width="95%" />
@@ -126,14 +126,14 @@ When I'm not building models, you'll find me diving into NLP research papers or 
 ---
 
 <!-- PINNED REPOS -->
-## 📌 Popular Repositories
+## Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/Ranveer017/CrediCheck-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=CrediCheck-AI&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+  <a href="https://github.com/AdiCodexy/Anime-Manga-DataScience-Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdiCodexy&repo=Anime-Manga-DataScience-Project-1&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Ranveer017/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=Portfolio&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+  <a href="https://github.com/Ranveer017/Coders-Of-Delhi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranveer017&repo=Coders-Of-Delhi&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
   </a>
 </p>
 
