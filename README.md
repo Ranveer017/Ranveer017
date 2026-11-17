@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="mailto:ranveer.shinde.work@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/ranveershinde/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ranveer-shinde-089675387?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/mr.ranveer017?igsh=eGFpaGc3eGZkM2lx"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"></a>
 </div>
 
