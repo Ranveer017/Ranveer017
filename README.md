@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="banner1.jpg" alt="banner1" width="100%"> <!--[cite: 3] -->
+  <img src="bnr.jpeg" alt="banner1" width="100%"> <!--[cite: 3] -->
 </div>
 
-<br>
 
-<p align="center">Data Science & Machine Learning Enthusiast. 3rd-year B.Tech AI & Data Science student at SPPU, passionate about turning raw data into real-world impact. Currently exploring NLP, Computer Vision, and deepening my skills in Python and SQL. Always curious. Always building.</p>
+<p align="center">Data Science & Machine Learning Enthusiast. 3rd-year B.Tech AI & Data Science student at SPPU, . Currently exploring NLP, Computer Vision, and deepening my skills in Python and SQL.Beat the odds.</p>
 
-<br>
 
 
 <div align="center">
@@ -17,24 +15,23 @@
 
 <h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
-<img src="custodia.jpg" alt="Icon" width="180" align="right">
+<img src="icon1.jpg.jpeg" alt="Icon" width="180" align="right">
 
 <p align="right"><img src="https://img.shields.io/badge/Hey_It%27s_me_Ranveer-000000?style=for-the-badge" alt="Hey It's me Ranveer"></p>
 
-<h3 align="right">Developer at Custodia</h3>
+<h3 align="right">Head of Product at Custodia</h3>
 
-<p align="right">Custodia is a browser-based coding platform we built for our college crew, with an in-browser editor, instant code execution and practice sets for Python, SQL, Java, C, DSA, DBMS and ML. I am currently developing the Multi-Layer Perceptron (MLP) section for the platform. We also actively participate in hackathons like the Smart India Hackathon.</p>
+<p align="right">Custodia is a browser-based coding platform we built for college students, with an in-browser editor, instant code execution and practice sets for Python, SQL, Java, C, DSA, DBMS and ML. I am currently developing CUSTODIA CONCEPTS for the platform.</p>
 
-<br clear="all">
+
 
 <h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
-<img src="permit.jpg" alt="Icon" width="180" align="left">
+<img src="icon2.jpeg" alt="Icon" width="180" align="left">
 
 <p><img src="https://img.shields.io/badge/Beyond_the_code-000000?style=for-the-badge" alt="Beyond the code"></p>
 
-<h3>Motorcyclist, Photographer, Open-Source Contributor</h3>
+<h3>Biker,Esports-athlete,Song Writer,Content Creator</h3>
 
-<p>When I'm not building models, I'm out riding my Triumph Speed 400 ("Boa"), capturing hilltop and landscape photography around Pune, or catching up on IPL cricket. I also actively maintain open-source projects like CrediCheck-AI and Urban-Heat-Mitigation.</p>
+<p>When I want to zone out, I'm out riding my Triumph Speed 400 ('Boa'), playing competitive games, writing and composing songs, or making random content.</p>
 
-<br clear="all">
